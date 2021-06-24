@@ -1,0 +1,16 @@
+{
+  "name": "BjSMatrix5x5",
+  "keywords": "led, display, shiftout",
+  "description": "Accessing the BjSMatrix5x5 LED display",
+  "repository": null,
+  "version": "2.6.1",
+  "frameworks": "arduino",
+  "platforms": "atmelavr",
+  "authors" :
+  [
+     {
+       "name":"NeoBurn",
+       "email":"neoburn@gmx.de"
+     }
+  ]
+}
