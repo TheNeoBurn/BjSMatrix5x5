@@ -94,7 +94,7 @@ Because of the self-set limitation of 3x5 pixels per character, some characters 
 * <code>2</code>: Rotated 180°
 * <code>3</code>: Rotated 90° clockwise
 
-The change takes effect only after the next call to <code>bmp(bitmap)</code> or <code>textpos(i)</code> or <code>scroll()</code>.
+The change takes effect only on the next call to <code>bmp(bitmap)</code> or <code>textpos(i)</code> or <code>scroll()</code>.
 
 ```c
   byte heart[5] = [
