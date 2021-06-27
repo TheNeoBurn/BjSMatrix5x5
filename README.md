@@ -114,3 +114,5 @@ The change takes effect only after the next call to <code>bmp(bitmap)</code> or 
     delay(500);
   }
 ```
+
+This command only exists if <code>BjSMatrixRotate</code> is defiend as 999 in BjSMatrix5x5.h of the library which is default. You can set this to one of the <code>o</code> values to set a fixed orientation and safe some program space when compiled.
